@@ -43,7 +43,7 @@
         <div class="edit">
             <p><a href="edit.php?id=<?= $id; ?>">Edit Entry</a></p>
         </div>
-    <?    
+    <?php    
       }
     ?>
 </section>
